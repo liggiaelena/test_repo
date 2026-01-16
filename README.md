@@ -1,6 +1,6 @@
 # test_repo
 
-![Descrição da imagem](images/imagem.png)
+![Descrição da imagem](images/image.png)
 
 # test_repo
 
